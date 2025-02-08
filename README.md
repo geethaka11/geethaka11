@@ -1,22 +1,22 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Geethaka Kalhara</h1>
 <h3 align="center">Full-Stack Developer | ICT Undergraduate</h3>
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=geethaka11&label=Profile%20Views&color=00A859&style=for-the-badge" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=geethaka11&label=Profile%20Views&color=0088CC&style=for-the-badge" alt="Profile Views" />  
 </p>
 
-## About Me
+### About Me
 <p align="justify" style="max-width: 600px; margin: auto; line-height: 1.6; font-size: 16px;">  
-  I'm an undergraduate pursuing a Bachelor’s in Information and Communication Technology at Uva Wellassa University.   
-  Passionate about full-stack development, I enjoy building applications that solve real-world problems. 
-  I'm always eager to learn new technologies and take on exciting projects!  
+  "I'm an undergraduate pursuing a Bachelor’s in Information and Communication Technology at Uva Wellassa University.   
+  Passionate about full stack development, I enjoy building applications that solve real-world problems. 
+  I'm always eager to learn new technologies and take on exciting projects!" 
 </p>
 
 <hr>
 
 ## My Github Statistics
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geethaka11&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=00A859&icon_color=00A859&text_color=808080&border_color=00A859"/>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=geethaka11&hide_border=false&background=transparent&border=00A859&fire=00A859&ring=00A859&currStreakNum=00A859&sideNums=00A859&currStreakLabel=00A859&sideLabels=00A859&dates=808080&stroke=00A859"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geethaka11&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=0088CC&icon_color=0088CC&text_color=808080&border_color=0088CC"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=geethaka11&hide_border=false&background=transparent&border=0088CC&fire=0088CC&ring=0088CC&currStreakNum=0088CC&sideNums=0088CC&currStreakLabel=0088CC&sideLabels=0088CC&dates=808080&stroke=0088CC"/>
 </div>
 
 <hr>
