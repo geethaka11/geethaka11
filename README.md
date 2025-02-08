@@ -52,6 +52,11 @@
 
 <hr>
 
+## My Contribution Snake Animation  
+![Snake animation](https://github.com/geethaka11/geethaka11/blob/output/github-contribution-grid-snake.svg)
+
+<hr>
+
 ## Connect with me
 <p align="left">
   <a href="https://github.com/geethaka11">
