@@ -11,15 +11,13 @@
   I'm always eager to learn new technologies and take on exciting projects!" 
 </p>
 
-<hr>
-
 ## My Github Statistics
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geethaka11&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=0088CC&icon_color=0088CC&text_color=808080&border_color=0088CC"/>
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=geethaka11&hide_border=false&background=transparent&border=0088CC&fire=0088CC&ring=0088CC&currStreakNum=0088CC&sideNums=0088CC&currStreakLabel=0088CC&sideLabels=0088CC&dates=808080&stroke=0088CC"/>
 </div>
 
-<hr>
+<br>
 
 ## Technologies & Tools  
 
@@ -50,12 +48,17 @@
   </tr>
 </table>
 
-<hr>
+<br>
 
-## My Contribution Snake Animation  
-![Snake animation](https://github.com/geethaka11/geethaka11/blob/output/github-contribution-grid-snake.svg)
+## My Contribution Snake Animation 
 
-<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geethaka11/geethaka11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geethaka11/geethaka11/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/geethaka11/geethaka11/output/github-snake.svg" />
+</picture>
+
+<br>
 
 ## Connect with me
 <p align="left">
