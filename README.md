@@ -15,8 +15,8 @@
 
 ## My Github Statistics
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geethaka11&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=00A859&icon_color=00A859&text_color=ffffff&border_color=00A859"/>
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=geethaka11&hide_border=false&background=transparent&border=00A859&fire=00A859&ring=00A859&currStreakNum=00A859&sideNums=00A859&currStreakLabel=00A859&sideLabels=00A859&dates=ffffff&stroke=00A859"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=geethaka11&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&title_color=00A859&icon_color=00A859&text_color=808080&border_color=00A859"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=geethaka11&hide_border=false&background=transparent&border=00A859&fire=00A859&ring=00A859&currStreakNum=00A859&sideNums=00A859&currStreakLabel=00A859&sideLabels=00A859&dates=808080&stroke=00A859"/>
 </div>
 
 <hr>
